@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Heroku ###
+target/
+.settings/
+.classpath
+.project
+
